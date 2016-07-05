@@ -1,4 +1,4 @@
-FROM jenkins:1.642.4-alpine
+FROM jenkins:1.651.3-alpine
 
 MAINTAINER We ahead <docker@weahead.se>
 
